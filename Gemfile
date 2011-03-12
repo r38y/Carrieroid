@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.5'
-gem 'sqlite3'
 
 gem 'bson_ext'
 gem 'mongoid', '2.0.0.rc.7'
