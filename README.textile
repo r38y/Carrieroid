@@ -1,0 +1,1 @@
+Taken from http://socialmemorycomplex.net/2010/06/02/gridfs-with-mongoid-and-carrierwave-on-rails-3/
